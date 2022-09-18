@@ -7,7 +7,7 @@ web: npm start
 # How Package.JSON should look
 
 {
-  "name": "my-newsletter", "\n"
+  "name": "my-newsletter",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
