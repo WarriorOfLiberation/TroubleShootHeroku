@@ -4,10 +4,10 @@ refrence for deploying on heroku
 # How procfile should look
 web: npm start
 
-#How Package.JSON should look
+# How Package.JSON should look
 
 {
-  "name": "my-newsletter",
+  "name": "my-newsletter", "\n"
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
